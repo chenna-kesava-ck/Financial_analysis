@@ -1,6 +1,6 @@
 # Financial Analysis Dashboard (Power BI)
 
-![Finance Dashboard](bccb2c81-e9e2-44a6-be81-40313380f7f1.png)
+![Finance Dashboard](Screenshot 2025-11-17 122326.png)
 
 ## 📊 Project Overview
 
